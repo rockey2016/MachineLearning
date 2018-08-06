@@ -5,7 +5,10 @@ $ git config --global --unset user.name
 
 $ git config --global --unset user.email
 
- 
+**配置用户**
+$ git config user.name 'rockey2016'
+
+$ git config user.email 'rockey-star@163.com'
 
 # 下拉代码库
 
