@@ -1,1 +1,0 @@
-sudo route add -net 60.60.60.0 netmask 255.255.255.0 gw 80.80.80.254

@@ -1,0 +1,2 @@
+epoches:500 batch_size:32 lr:0.001  dr:0.3 units:{'lstm_units': {'units1': 128, 'units2': 64, 'units3': 32, 'units4': 16}, 'dense_units': {'units5': 8, 'units6': 5}}
+LSTM model unit1_size:{1} unit1_size:{2} unit1_size:{3} unit1_size:{4} unit1_size:{5} unit1_size:{6}

@@ -1,3 +1,11 @@
+# Git用户与gitHub用户
+
+## git客户端用户名、邮箱的作用
+
+本地的git需要设置用户名和邮箱，其本质是本地git客户端的一个变量，不随git库改变，但也可以为某个库单独设置用户名和邮箱，github或码云等都是根据git客户端的用户名和邮箱来进行contributions统计的，每次commit的记录也是使用git客户端的用户名和邮箱，所以当客户端邮箱、用户名和github邮箱、用户名不一致时，会导致github无法统计contributions，这是由于客户端的用户名、邮箱并不对应真实的github账号，所以无法统计，且提交者头像变灰，因为它是未知github账号，当然你把用户名和邮箱改为别人的实际存在的github的用户名邮箱，那么git push后提交者将变成别人的github账号。
+
+结论：尽量将git客户端的用户名、邮箱和github账号的用户名、邮箱设置为完全一致。
+
 # 配置sshkey
 
 取消全局变量设置
@@ -142,3 +150,14 @@ $ git remote add github git@github.com:rockey2016/Health.git
 
 
 
+# 提交代码
+
+将代码提交到另外一个分支
+
+在本分支下git add,git commit,git push
+
+切换分支  git checkout
+
+查看提交点  git log --oneline
+
+复制   git **cherry-pick**  <commitid>

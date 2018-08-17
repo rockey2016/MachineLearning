@@ -1,0 +1,1178 @@
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 32, in experiments
+    model.train_model(trainX,trainY,validX,validY,save_path)
+  File "D:\Manshy\health_predict\health_predict\predict.py", line 127, in train_model
+    self._model.fit(train_x, train_y, epochs=self._epoches, verbose=1, batch_size=self._batch_size, validation_data=(valid_x, valid_y), callbacks=[self._history,self._checkpoint,self._earlystop], shuffle=False)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\models.py", line 1002, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1705, in fit
+    validation_steps=validation_steps)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 1216, in _fit_loop
+    batches = _make_batches(num_train_samples, batch_size)
+  File "D:\Manshy\Anaconda3\lib\site-packages\keras\engine\training.py", line 355, in _make_batches
+    for i in range(num_batches)]
+TypeError: 'float' object cannot be interpreted as an integer
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],learn_rate=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'learn_rate'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],learn_rate=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'learn_rate'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],learn_rate=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'learn_rate'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],learn_rate=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'learn_rate'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],learn_rate=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'learn_rate'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],learn_rate=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'learn_rate'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],learn_rate=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'learn_rate'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],learn_rate=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'learn_rate'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],learn_rate=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'learn_rate'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],learn_rate=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'learn_rate'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],learn_rate=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'learn_rate'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],learn_rate=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'learn_rate'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],learn_rate=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'learn_rate'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "d:\Manshy\health_predict\health_predict\hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+TypeError: __init__() got an unexpected keyword argument 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 29, in experiments
+    model = LstmModel(epoches=params['epoch'], batch_size=params['batch'],lr=params['lr'])
+KeyError: 'lr'
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 33, in experiments
+    model = LstmModel(units=params['units'],dr=parms['dr'])
+NameError: name 'parms' is not defined
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 33, in experiments
+    model = LstmModel(units=params['units'],dr=parms['dr'])
+NameError: name 'parms' is not defined
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 33, in experiments
+    model = LstmModel(units=params['units'],dr=parms['dr'])
+NameError: name 'parms' is not defined
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 33, in experiments
+    model = LstmModel(units=params['units'],dr=parms['dr'])
+NameError: name 'parms' is not defined
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 33, in experiments
+    model = LstmModel(units=params['units'],dr=parms['dr'])
+NameError: name 'parms' is not defined
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 33, in experiments
+    model = LstmModel(units=params['units'],dr=parms['dr'])
+NameError: name 'parms' is not defined
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 33, in experiments
+    model = LstmModel(units=params['units'],dr=parms['dr'])
+NameError: name 'parms' is not defined
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 33, in experiments
+    model = LstmModel(units=params['units'],dr=parms['dr'])
+NameError: name 'parms' is not defined
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 33, in experiments
+    model = LstmModel(units=params['units'],dr=parms['dr'])
+NameError: name 'parms' is not defined
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 33, in experiments
+    model = LstmModel(units=params['units'],dr=parms['dr'])
+NameError: name 'parms' is not defined
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 33, in experiments
+    model = LstmModel(units=params['units'],dr=parms['dr'])
+NameError: name 'parms' is not defined
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 33, in experiments
+    model = LstmModel(units=params['units'],dr=parms['dr'])
+NameError: name 'parms' is not defined
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 33, in experiments
+    model = LstmModel(units=params['units'],dr=parms['dr'])
+NameError: name 'parms' is not defined
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 33, in experiments
+    model = LstmModel(units=params['units'],dr=parms['dr'])
+NameError: name 'parms' is not defined
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 33, in experiments
+    model = LstmModel(units=params['units'],dr=parms['dr'])
+NameError: name 'parms' is not defined
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 33, in experiments
+    model = LstmModel(units=params['units'],dr=parms['dr'])
+NameError: name 'parms' is not defined
+Traceback (most recent call last):
+  File "D:/Manshy/health_predict/health_predict/hyperoptparam.py", line 33, in experiments
+    model = LstmModel(units=params['units'],dr=parms['dr'])
+NameError: name 'parms' is not defined
